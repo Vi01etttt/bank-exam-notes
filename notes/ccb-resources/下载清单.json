@@ -1,0 +1,33 @@
+[
+  {
+    "name": "建行2025年度报告A股.pdf",
+    "url": "https://www.ccb.com/chn/attachDir/2026/04/2026041417050690337.pdf",
+    "checked_date": "2026-10-04",
+    "status": "未取得",
+    "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>"
+  },
+  {
+    "name": "建行2026半年度报告A股.pdf",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225531678.PDF",
+    "checked_date": "2026-10-04",
+    "status": "已下载PDF原文件",
+    "file": "PDF/建行2026半年度报告A股.pdf",
+    "bytes": 5070626,
+    "sha256": "44df14ec06aa5c44eb6584f8746a12a35a542207cc9b05f4559c0a1ab05c0735",
+    "pdf_pages": 331,
+    "encrypted": false,
+    "validation": "PDF结构可读；抽查2025年报PDF第9页文化图、2026半年报第7和第8页财务表格，清晰可读"
+  },
+  {
+    "name": "建行2025年度报告_港交所披露.pdf",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032702172_c.pdf",
+    "checked_date": "2026-10-04",
+    "status": "已下载PDF原文件",
+    "file": "PDF/建行2025年度报告_港交所披露.pdf",
+    "bytes": 11753273,
+    "sha256": "e72d9ba746ec59e234db18a801727808a858026b101659235fc78c69e94901a1",
+    "pdf_pages": 369,
+    "encrypted": false,
+    "validation": "PDF结构可读；抽查2025年报PDF第9页文化图、2026半年报第7和第8页财务表格，清晰可读"
+  }
+]

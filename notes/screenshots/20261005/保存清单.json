@@ -1,0 +1,38 @@
+{
+  "archived_on": "2026-10-05",
+  "source": "用户在本次对话提供的六张粉笔截图；非官方原卷认证",
+  "distinct_questions": 5,
+  "incomplete_question": "照片3缺题干与选项",
+  "files": [
+    {
+      "file": "1-Photo-1.jpg",
+      "bytes": 89582,
+      "sha256": "cadadb38ed093ca717274614d3bc7cf8d0235a1f822c0d0d9203df80a2ba5fb9"
+    },
+    {
+      "file": "2-Photo-2.jpg",
+      "bytes": 93658,
+      "sha256": "b24f5252caf1c27b64a9980111b46b4001e17261a07d86923738c8694d7c0d84"
+    },
+    {
+      "file": "3-Photo-3.jpg",
+      "bytes": 110025,
+      "sha256": "090e2ee8e7b1a101a0e9a55a5ea71ef546837ca3452a3a68ff88ac74abca0e43"
+    },
+    {
+      "file": "4-Photo-4.jpg",
+      "bytes": 104084,
+      "sha256": "920dac9b2a41540686dc37c772ee6fbf99639fa12881eea3e9b922e7b0fe4d5d"
+    },
+    {
+      "file": "5-Photo-5.jpg",
+      "bytes": 44980,
+      "sha256": "e39acd723aa8769119271858779003789040826c47a6367c1a1c4e1cd20f9b59"
+    },
+    {
+      "file": "6-Photo-6.jpg",
+      "bytes": 90318,
+      "sha256": "6354fd875692f85e6831829479984d7638d7ca45484f776b541a49f8435cba18"
+    }
+  ]
+}
